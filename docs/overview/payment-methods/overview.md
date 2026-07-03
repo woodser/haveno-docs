@@ -35,13 +35,17 @@ Below is a list of fiat payment methods currently supported by Haveno.
 | [Domestic wire transfer](Domestic-Wire-Transfer.md)* | USA | 3 days | 12.00 XMR |
 | [Face to Face (F2F)](F2F.md)* | Global | 4 days | 48.00 XMR | [See article](F2F.md) for special guidance on F2F transactions. |
 | [Faster Payments](Faster-Payments.md)* | UK | 1 day | 12.00 XMR | [See article](Faster-Payments.md) for recent changes to avoid issues. |
+| [GCash](GCash.md)* | Philippines | 1 day | 12.00 XMR |
 | HalCash* | Spain | 1 day | 48.00 XMR |
 | [IMPS](IMPS.md)* | India | 1 day |12.00 XMR | IMPS limits to Rs. 1,000,000 per day. |
 | [Interac e-Transfer](interac-e-transfer.md) | Canada | 1 day | buy: 3.00 XMR  sell: 12.00 XMR | Interac e-Transfer Autodeposits are not supported. |
 | Japan Zengin Furikomi* | Japan | 1 day | 12.00 XMR |
+| [Mercado Pago](Mercado-Pago.md)* | Latin America (ARS, BRL, MXN, CLP, COP, PEN, UYU) | 1 day | 12.00 XMR |
+| [MoMo](MoMo.md)* | Vietnam | 1 day | 12.00 XMR |
 | [Monese](Monese.md)* | Europe (GBP, EUR and RON) | 1 day | 12.00 XMR |
 | MoneyBeam (N26) | Europe | 1 day | buy: 3.00 XMR  sell: 12.00 XMR |
 | MoneyGram* | Global | 4 days | 24.00 XMR |
+| [M-Pesa](M-Pesa.md)* | Africa (KES, TZS, ETB, EGP, MZN, LSL, GHS, CDF, USD) | 1 day | 12.00 XMR |
 | National Bank Transfer | N/A | 4 days | buy: 3.00 XMR  sell: 12.00 XMR |
 | [Nequi](Nequi.md)* | Colombia | 1 day |12.00 XMR | Nequi limits to COP 7,000,000 per month. |
 | [NEFT](NEFT.md)* | India | 1 day | 12.00 XMR | NEFT limits to Rs. 50,000 per transaction. |
@@ -61,6 +65,7 @@ Below is a list of fiat payment methods currently supported by Haveno.
 | [SEPA](SEPA.md) | Europe | 6 days | buy: 3.00 XMR  sell: 12.00 XMR |
 | [SEPA Instant](SEPA-Instant.md) | Europe | 1 day | buy: 3.00 XMR  sell: 12.00 XMR |
 | Skrill* | Global | Varies | 12.00 XMR |
+| [SPEI](SPEI.md)* | Mexico | 1 day | 12.00 XMR | Transfers use a CLABE number. |
 | [Strike](Strike.md)* | USA | 1 day | 12.00 XMR | Non-KYC strike users have lower limits. |
 | [SWIFT](SWIFT.md)* | Global | 7 days | 24.00 XMR |
 | Swish* | Sweden | 1 day | 48.00 XMR |
